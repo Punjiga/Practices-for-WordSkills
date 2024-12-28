@@ -1,0 +1,8 @@
+Primera practica wordskills 
+Consta de elegir un diseño de referencia para replicarlo lo más posible y dentro de un lapso de 2 horas
+
+A tomar en cuenta para los próximos
+
+. Utilizar en menor medida el padding para acomodar las cosas ya que me afecta a la hora de hacerlos responsive porque tendría que ir acomodando uno por uno
+. Tener los iconos, imágenes y demás listos en el formato y color que necesito (evaluar si hacer los logos yo o utilizarlos como fuente (aunque esto poco probable ya que no se puede usar internet))
+. Repasar el como usar el display grid y como hacer un carousel
